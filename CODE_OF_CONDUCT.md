@@ -26,5 +26,5 @@ We take violations of our code of conduct seriously and will take appropriate ac
 
 If you witness or experience any behavior that violates our code of conduct, please report it to the project maintainers at laboyjatta@gmail.com . All reports will be kept confidential and will be taken seriously.
 
-Attribution
+## Attribution
 This code of conduct is adapted from the Contributor Covenant, version 2.0.
