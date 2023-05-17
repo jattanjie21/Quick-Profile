@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=localhost
+POSTGRES_PORT=6000
+POSTGRES_DB=quickprofile_db
+POSTGRES_USER=quick_profile_Admin
+POSTGRES_PASSWORD=ECq4zKeSNcniDoVh6EZ52JpyPDlkZ8BXsusfAszpXTkkPAtXcCMTpuhO7ARe2c79
