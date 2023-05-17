@@ -6,8 +6,6 @@ We are committed to creating a welcoming and inclusive environment for all, and 
 ## Our Standards
 Be respectful: We value diverse opinions and perspectives, and we encourage respectful communication and debate. Be kind to others and avoid personal attacks or insults.
 
-Be inclusive: We welcome everyone, regardless of background or identity. Be inclusive in your language and actions, and avoid any behavior that could make others feel excluded or unwelcome.
-
 Be collaborative: Our project thrives on collaboration, and we encourage working together to achieve common goals. Be open to feedback and constructive criticism, and be willing to help others learn and grow.
 
 Be responsible: Take responsibility for your actions and their consequences. Follow through on your commitments, and be accountable for your mistakes.
