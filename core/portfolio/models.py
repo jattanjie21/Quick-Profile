@@ -1,8 +1,8 @@
 from django.db import models
-from django.conf.global_settings import AUTH_USER_MODEL
+from django.conf import settings
 
 
-user = AUTH_USER_MODEL
+user = settings.AUTH_USER_MODEL
 
 
 class Experience(models.Model):
