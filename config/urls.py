@@ -14,6 +14,9 @@ urlpatterns = [
     path("users/", include("core.users.urls", namespace="users")),
     path("accounts/", include("allauth.urls")),
     # Your stuff: custom urls includes go here
+
+    path("template1/",include("core.webapp.urls")),
+    
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
 
 
