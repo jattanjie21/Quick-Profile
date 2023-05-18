@@ -60,9 +60,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'HOST': 'localhost',
-        'PORT': '6000',
-        'NAME': 'test_db',
-        'USER': 'quick_profile_admin',
-        'PASSWORD': 'Quick$$2023',
+        'PORT': '5432',
+        'NAME': 'qp_db',
+        'USER': 'qpuser',
+        'PASSWORD': 'QProfile$$2022',
     }
 }
