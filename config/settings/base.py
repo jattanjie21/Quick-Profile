@@ -79,8 +79,13 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     "core.users",
-    # Your stuff: custom apps go here
+    "core.webapp",
+    "core.portfolio",
+    "core.forms",
+    "core.rest_api",
+    "core.graphql_api",
 ]
+
 # https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
 
