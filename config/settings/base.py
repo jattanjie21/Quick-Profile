@@ -81,7 +81,7 @@ LOCAL_APPS = [
     "core.users",
     "core.webapp",
     "core.portfolio",
-    "core.forms",
+    "core.common",
     "core.rest_api",
     "core.graphql_api",
 ]
